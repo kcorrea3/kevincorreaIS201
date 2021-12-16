@@ -1,0 +1,78 @@
+/* */
+/*body {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #575757 ;
+    background-color: #a2aca4;}
+
+li {font-size: 14px;
+    font-style: italic;
+    font-weight: normal;}
+
+a {color: rgb(170, 79, 14);
+    text-decoration: none;}
+
+a:hover {text-decoration: underline;
+        font-weight: bold;}
+
+
+.resumelistheader {
+    font-weight: bold;
+    font-style: normal;}
+
+.underline {text-decoration: underline;}
+
+
+
+.justify {text-align: justify;}*/
+
+.top{
+    margin-top:30px
+}
+.left{
+    margin-left: 260px;
+}
+.right {margin-right: 260px;}
+
+.underline {text-decoration: underline;}
+
+.twelve {font-size: medium;}
+
+.whitebg {background: #003366;}
+
+.normal {font-weight: lighter;}
+
+.resumelistheader {
+    font-weight: bold;
+    font-style: normal;}
+
+.center {text-align: center;}
+
+.black {color: black;}
+.white {color: whitesmoke}
+.marineblue {color: blue}
+
+.bold {font-weight: bold;}
+
+.Aboutmebg {background-image: url('../images/bg7.jpg');
+    background-position: center;
+    background-repeat: repeat;}
+
+.resumebg {background-image: url('../images/bg6.jpg');
+    background-position: center;
+    background-repeat: repeat;}
+
+.homebg {background-image: url('../images/bg1.jpg' );
+        background-position: center;
+        background-repeat: repeat;}
+
+        /* Style created to show how to use box1*/
+/*.box1 {border-width: 1px;
+        border-style: solid;}
+
+.box2 {padding: 5px;}
+
+.box3 {margin: 50px;}
+
+.box4 {padding-left: 10px;
+        margin: 100px;
+        border-right: solid 5px blue;}*/

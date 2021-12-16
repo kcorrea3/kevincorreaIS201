@@ -1,0 +1,41 @@
+/*Kevin Correa, 12/15/2021*/
+.top{
+    margin-top:30px
+}
+.left{
+    margin-left: 260px;
+}
+.right {margin-right: 260px;}
+
+.underline {text-decoration: underline;}
+
+.twelve {font-size: medium;}
+
+.whitebg {background: #003366;}
+
+.normal {font-weight: lighter;}
+
+.resumelistheader {
+    font-weight: bold;
+    font-style: normal;}
+
+.center {text-align: center;}
+
+.black {color: black;}
+.white {color: whitesmoke}
+.marineblue {color: blue}
+
+.bold {font-weight: bold;}
+
+.Aboutmebg {background-image: url('../images/bg7.jpg');
+    background-position: center;
+    background-repeat: repeat;}
+
+.resumebg {background-image: url('../images/bg6.jpg');
+    background-position: center;
+    background-repeat: repeat;}
+
+.homebg {background-image: url('../images/bg1.jpg' );
+        background-position: center;
+        background-repeat: repeat;}
+
